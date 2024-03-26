@@ -1,2 +1,4 @@
 # maze-search-algorithm
-using python to implement BFS and A* algorithms to solve a size-28 maze (first project for artificial intelligence course)
+using python to implement 2 algorithms (BFS and A*) to solve a size-28 maze (project0 for artificial intelligence course)
+
+grade recieved: 10/10
